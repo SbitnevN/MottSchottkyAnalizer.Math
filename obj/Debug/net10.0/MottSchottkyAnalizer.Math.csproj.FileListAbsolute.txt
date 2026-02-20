@@ -1,0 +1,11 @@
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\bin\Debug\net10.0\MottSchottkyAnalizer.Math.deps.json
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\bin\Debug\net10.0\MottSchottkyAnalizer.Math.dll
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\bin\Debug\net10.0\MottSchottkyAnalizer.Math.pdb
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\obj\Debug\net10.0\MottSchottkyAnalizer.Math.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\obj\Debug\net10.0\MottSchottkyAnalizer.Math.AssemblyInfoInputs.cache
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\obj\Debug\net10.0\MottSchottkyAnalizer.Math.AssemblyInfo.cs
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\obj\Debug\net10.0\MottSchottkyAnalizer.Math.csproj.CoreCompileInputs.cache
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\obj\Debug\net10.0\MottSchottkyAnalizer.Math.dll
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\obj\Debug\net10.0\refint\MottSchottkyAnalizer.Math.dll
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\obj\Debug\net10.0\MottSchottkyAnalizer.Math.pdb
+F:\Programming\Diplome\MottSchottkyAnalizer.Math\obj\Debug\net10.0\ref\MottSchottkyAnalizer.Math.dll
