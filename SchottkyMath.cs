@@ -1,4 +1,4 @@
-﻿namespace ElinsData;
+﻿namespace MottSchottkyAnalizer.Math;
 
 public static class SchottkyMath
 {
@@ -9,7 +9,7 @@ public static class SchottkyMath
     /// <returns>Angular frequency in rad/s</returns>
     public static double AngularFrequency(double frequency)
     {
-        return 2 * Math.PI * frequency;
+        return 2 * System.Math.PI * frequency;
     }
 
     /// <summary>
@@ -21,7 +21,6 @@ public static class SchottkyMath
     /// <returns>Capacitance in Farads</returns>
     public static double Capacitance(double frequency, double impedanceImaginary)
     {
-        double angularFrequency = AngularFrequency(frequency);
-        return Math.Round(-1.0d / (angularFrequency * impedanceImaginary), 6);
+        return -1.0d / (AngularFrequency(frequency) * impedanceImaginary);
     }
 }
